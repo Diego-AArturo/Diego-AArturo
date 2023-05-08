@@ -1,4 +1,4 @@
-### We are a group of biomedical engineering students who are entering the area of ​​data analysis and machine learning to address different opportunities or processes that occur in the field of health.
+### We are a group of biomedical engineering students who are entering the area of ​​data analysis and machine learning to address different opportunities or processes that occur in the field of health. ⚡
 
 <!--
 **Diego-AArturo/Diego-AArturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
