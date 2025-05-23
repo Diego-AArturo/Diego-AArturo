@@ -14,6 +14,13 @@ I'm currently studying to become a Data Scientist, sharpening my skills in data 
 🧠 Autonomous agents & real-time AI
 
 💡 I'm always open to exploring new ideas, collaborating on exciting projects, and growing through hands-on challenges.
+
+### 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/diego-alejandro-arturo-angulo)
+
+![GitHub followers](https://img.shields.io/github/followers/Diego-AArturo?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Diego-AArturo?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
 <!--
 **Diego-AArturo/Diego-AArturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
