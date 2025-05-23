@@ -1,5 +1,19 @@
-### We are a group of biomedical engineering students who are entering the area of ​​data analysis and machine learning to address different opportunities and processes that take place in the field of health. ⚡
+👋 Hi, I'm Diego Alejandro Arturo
+🎓 Biomedical Engineer | 🤖 AI Specialist | 📊 Aspiring Data Scientist
 
+I discovered my passion for programming, data, and artificial intelligence during college. Now, I’m continuously learning and developing innovative solutions at the intersection of biomedical science and modern tech.
+
+I'm currently studying to become a Data Scientist, sharpening my skills in data analysis, machine learning, and AI-driven applications.
+
+🔍 I’m especially interested in:
+
+⚙️ Biomechanics & intelligent systems
+
+📚 AI in education & digital learning tools
+
+🧠 Autonomous agents & real-time AI
+
+💡 I'm always open to exploring new ideas, collaborating on exciting projects, and growing through hands-on challenges.
 <!--
 **Diego-AArturo/Diego-AArturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
